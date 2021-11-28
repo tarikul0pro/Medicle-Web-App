@@ -1,0 +1,12 @@
+.header{
+    background-image: url('./../../assets/images/Header-bg.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.font-size{
+    font: 48px;
+    font-weight: 700;
+}
+.navbar{
+    background-color: rgb(178, 207, 204);
+}

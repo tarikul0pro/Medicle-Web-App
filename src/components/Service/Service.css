@@ -1,0 +1,12 @@
+.service{
+    background-color: rgb(213, 255, 255);
+    padding: 10px;
+    margin: 5px;
+    margin-top: 5px;
+}
+
+.image-size{
+    width: 250px;
+    height: 150px;
+    border-radius: 10px;
+}
